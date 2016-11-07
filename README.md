@@ -10,4 +10,4 @@ See [this](https://rawgit.com/MarkPawlus/elide.js/master/demo/index.html) page f
 2. Append the 'elide' class to any elements you need to track
 3. Add a call to elide_init() to your application's onload event
 
-Note: Only divs assigned an id will be tracked.
+Note: Only elements assigned an id will be tracked.
