@@ -13,5 +13,6 @@ See [this](https://rawgit.com/MarkPawlus/elide.js/master/demo/index.html) page f
 Note: Only elements assigned an id will be tracked.
 
 ##ToDo
-1. Generate ID's on the fly to allow elements with no ID to be tracked without requiring addition of ID.
-2. Detect container padding and reduce available text resizing space accordingly.
+1. Generate ID's on the fly to allow elements with no ID to be tracked without requiring addition of ID
+2. Detect container padding and reduce available text resizing space accordingly
+3. Synchronize resizing of multiple elements
