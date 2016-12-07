@@ -10,8 +10,7 @@ body {
 	background-color: #FAFAFA;
 	margin-top: 20px;
 	padding-bottom: 5px;
-	height: 350px;
-	overflow: scroll;
+	height: 400px;
 }
 
 .feed-item {
